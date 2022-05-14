@@ -1,0 +1,13 @@
+.box{
+  background-color: #fff;
+  margin: 50px;
+}
+h1 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 40px;
+    font-weight: 500;
+    color: white;
+    text-align: center;
+    text-shadow: -1px 0 black, 0 3.5px black, 1px 0 black, 0 -1px black;
+    padding: 50px;
+}
